@@ -3,8 +3,7 @@ import random
 import copy
 from collections import defaultdict
 
-
-# # Define the MDP with groups seperate, didnt finish but this is an idea
+## Define the MDP with groups seperate, didnt finish but this is an idea
 # states = ['Rested', 'Tired', 'Done', 'Undone', '8am', '8pm', '10am', '10pm']
 # actions = ['Party', 'Rest', 'Study']
 # terminal_states = ['Class']  # Adjust if your terminal state is different
